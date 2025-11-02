@@ -1,0 +1,1 @@
+export default function Page(){return <div className='p-8'>Site is ready. Replace this with your canvas content.</div>;}
